@@ -1,4 +1,4 @@
-# ValetParking
+# Valet Parking
 
 ## Prerequisite to run on Ubuntu
 Please run the following commands to install the neccesary packages required to execute the program  
@@ -7,7 +7,7 @@ Please run the following commands to install the neccesary packages required to 
 > sudo apt-get install mono-runtime  
 > sudo apt-get install mono-mcs  
 
-## Comilation of the program
+## Compilation of the program
 Please run the following command to compile the program
 > mcs ValetParking.cs  
 
