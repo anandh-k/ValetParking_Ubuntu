@@ -13,4 +13,4 @@ Please run the following command to compile the program
 
 ## Execution of the program
 The program can be executed from the command line. An input file with the testcases should be provided as an input argument as shown below
-> mono ValetParking.exe  
+> mono ValetParking.exe testcase.txt  
